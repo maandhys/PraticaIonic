@@ -23,7 +23,7 @@ export class ViagensPage implements OnInit {
   ]
   ngOnInit() {
   }
-
+ 
 }
 
 // No componente Viagens crie um array de viagens contendo local, descricao, data da
